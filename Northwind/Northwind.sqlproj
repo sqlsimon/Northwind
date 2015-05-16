@@ -108,5 +108,6 @@
   <ItemGroup>
     <None Include="Scripts\PopulateData.sql" />
     <None Include="__publish\local.publish.xml" />
+    <None Include="Scripts\copyright.sql" />
   </ItemGroup>
 </Project>
